@@ -12270,15 +12270,16 @@
                 "date": "2020-12-05"
             },
             {
-                "cases": 16786,
+                "cases": 17384,
                 "deaths": 164,
-                "growthFactor": 0.98,
+                "tested": 948511,
+                "growthFactor": 1.01,
                 "date": "2020-12-06"
             },
             {
                 "cases": 17107,
                 "deaths": 164,
-                "growthFactor": 1.02,
+                "growthFactor": 0.98,
                 "date": "2020-12-07"
             },
             {
@@ -19383,14 +19384,14 @@
                 "date": "2020-09-01"
             },
             {
-                "cases": 11747,
-                "deaths": 85,
+                "cases": 11950,
+                "deaths": 90,
                 "hospitalized_current": 30,
                 "tested": 75958,
-                "active": 1080,
+                "active": 1163,
                 "hospitalized": 603,
-                "recovered": 10582,
-                "growthFactor": 2.12,
+                "recovered": 10697,
+                "growthFactor": 2.15,
                 "date": "2020-09-02"
             },
             {
@@ -19399,7 +19400,7 @@
                 "hospitalized_current": 32,
                 "tested": 76502,
                 "active": 0,
-                "growthFactor": 0.48,
+                "growthFactor": 0.47,
                 "date": "2020-09-03"
             },
             {
@@ -20195,11 +20196,11 @@
             },
             {
                 "cases": 10648,
-                "deaths": 85,
+                "deaths": 90,
                 "hospitalized_current": 63,
                 "active": 860,
                 "hospitalized": 603,
-                "recovered": 9703,
+                "recovered": 9698,
                 "growthFactor": 1.04,
                 "date": "2020-11-30"
             },
